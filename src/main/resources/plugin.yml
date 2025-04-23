@@ -2,3 +2,5 @@ name: Gacker
 version: '1.0'
 main: world.craftoria.gacker.Gacker
 api-version: '1.20'
+commands:
+  gacker:
